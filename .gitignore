@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>بيع شدات ببجي</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>بيع شدات ببجي</h1>
+        <nav>
+            <ul>
+                <li><a href="#">الرئيسية</a></li>
+                <li><a href="#">المنتجات</a></li>
+                <li><a href="#">اتصل بنا</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="product">
+            <h2>شدات ببجي</h2>
+            <div class="product-item">
+                <img src="https://via.placeholder.com/150" alt="شدات ببجي">
+                <h3>1000 شدة</h3>
+                <p>السعر: $10</p>
+                <button>شراء الآن</button>
+            </div>
+            <div class="product-item">
+                <img src="https://via.placeholder.com/150" alt="شدات ببجي">
+                <h3>2000 شدة</h3>
+                <p>السعر: $20</p>
+                <button>شراء الآن</button>
+            </div>
+            <!-- يمكن إضافة المزيد من المنتجات هنا -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 بيع شدات ببجي. جميع الحقوق محفوظة.</p>
+    </footer>
+</body>
+</html>
